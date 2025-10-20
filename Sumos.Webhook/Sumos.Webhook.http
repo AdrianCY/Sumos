@@ -1,0 +1,12 @@
+@HostAddress = http://localhost:5057
+
+GET {{HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{HostAddress}}?hub.mode=sub&hub.challenge=123&hub.verify_token=my_token
+
+###
+
+POST {{HostAddress}}/webhook/whatsapp
