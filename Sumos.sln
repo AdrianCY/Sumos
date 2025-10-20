@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumos.AdminApi", "Sumos.AdminApi\Sumos.AdminApi.csproj", "{1ECCF983-6D8B-4505-AEAD-9EA631C04C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumos.Data", "Sumos.Data\Sumos.Data.csproj", "{27E3FAE3-2BD0-4F78-85E3-D2910583E13E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumos.Webhook", "Sumos.Webhook\Sumos.Webhook.csproj", "{5BA90572-D65F-44EF-AFF5-261B400AEC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ECCF983-6D8B-4505-AEAD-9EA631C04C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECCF983-6D8B-4505-AEAD-9EA631C04C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECCF983-6D8B-4505-AEAD-9EA631C04C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECCF983-6D8B-4505-AEAD-9EA631C04C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E3FAE3-2BD0-4F78-85E3-D2910583E13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E3FAE3-2BD0-4F78-85E3-D2910583E13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E3FAE3-2BD0-4F78-85E3-D2910583E13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E3FAE3-2BD0-4F78-85E3-D2910583E13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA90572-D65F-44EF-AFF5-261B400AEC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA90572-D65F-44EF-AFF5-261B400AEC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA90572-D65F-44EF-AFF5-261B400AEC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA90572-D65F-44EF-AFF5-261B400AEC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
